@@ -1,7 +1,6 @@
----
 title: "Yo, Hello World!"
 date: 2022-08-12
----
+
 # Hello, World
 
 My name is Marvie, and I'm making the obligatory `Hello, World` first post. 
